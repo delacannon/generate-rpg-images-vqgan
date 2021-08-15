@@ -16,7 +16,7 @@ Far from being perfect, the generated images can help you to create atmospheres,
 
 Let's make a monster, a **CRONOJELLY**. *When the monster hits a character with the tentacles, Body Save or target ages 2d10 years and suffers Stress equal to the result / 2* 
 
-- Open Colab Research VQGAN+CLIP [link](https://colab.research.google.com/drive/1BGPem6Vuv47MMtgzR98bvodKDFKXM3Rb) - the first time go to *File/Save a copy in Drive*.
+- Open Colab Research VQGAN+CLIP [link](https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT) - the first time go to *File/Save a copy in Drive*.
 - Run each cell in order from top to bottom. In cell *Selección de modelos a descargar / Selection of models to download* select **wikiart_16384**:
   - Using this model I find that it generates images with better results.
 - *Parámetros/Parameters* example: 
