@@ -45,6 +45,9 @@ Let's make a monster, a **CRONOJELLY**. *When the monster hits a character with 
 
 I hope this little guide will help you to experiment and generate images that will inspire you.
 
+**AI up-scaling**
+TODO
+
 **Some random images I generated before with diferent styles:**
 
 ![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/arrival.png)
@@ -68,5 +71,4 @@ I hope this little guide will help you to experiment and generate images that wi
 ![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/vamp.png)
 
 ![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/tatooine-corben.png)
-
 
