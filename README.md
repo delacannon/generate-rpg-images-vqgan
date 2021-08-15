@@ -9,7 +9,7 @@ Far from being perfect, the generated images can help you to create atmospheres,
 **Tools:**
  - Must read https://learn.adafruit.com/generating-ai-art-with-vqgan-clip
  - Gmail acount needed
- - [Colab Research VQGAN+CLIP (z+quantize method)](https://colab.research.google.com/drive/1BGPem6Vuv47MMtgzR98bvodKDFKXM3Rb) (generator)
+ - [Colab Research VQGAN+CLIP (z+quantize method)](https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT) (generator)
  - [PhotoMosh](https://photomosh.com/) (post-production)
 
 **My workflow for Mothership images:**
@@ -72,3 +72,4 @@ TODO
 
 ![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/tatooine-corben.png)
 
+**All images are CC-BY-3.0** 
