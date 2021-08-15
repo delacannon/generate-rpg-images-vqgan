@@ -1,3 +1,5 @@
+# Generate an AI monster image 
+
 Hey! Here is a brief guide on how AI generated the images of above using VQGAN+CLIP. It's very straightforward.
 
 Generating an image can take between 5 and 10 minutes, sometimes even before 2' you can capture a sketch in some iteration that inspires you. 
