@@ -10,18 +10,30 @@ Far from being perfect, the generated images can help you to create atmospheres,
  - [Colab Research VQGAN+CLIP (z+quantize method)](https://colab.research.google.com/drive/1BGPem6Vuv47MMtgzR98bvodKDFKXM3Rb) (generator)
  - [PhotoMosh](https://photomosh.com/) (post-production)
 
-**My Workflow for Mothership:**
+**My workflow for Mothership images:**
 
-- Open Colab Research VQGAN+CLIP [link](https://colab.research.google.com/drive/1BGPem6Vuv47MMtgzR98bvodKDFKXM3Rb) - the first time go to *File/Save a copy in Drive*
-- Run each cell in order from top to bottom. In cell *Selección de modelos a descargar / Selection of models to download* select **wikiart_16384** 
-- **wikiart_16384** Using this model I find that it generates images with better results. 
-- In the parameters cell:
- - cell  
+Let's make a monster, a **CRONOJELLY**. *When the monster hits a character with the tentacles, Body Save or target ages 2d10 years and suffers Stress equal to the result / 2* 
 
+- Open Colab Research VQGAN+CLIP [link](https://colab.research.google.com/drive/1BGPem6Vuv47MMtgzR98bvodKDFKXM3Rb) - the first time go to *File/Save a copy in Drive*.
+- Run each cell in order from top to bottom. In cell *Selección de modelos a descargar / Selection of models to download* select **wikiart_16384**:
+  - Using this model I find that it generates images with better results.
+- *Parámetros/Parameters* example: 
+  ![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/jelly-example.png)
+  
 
-**Samples:**
+*textos/prompt* In this field is where you define the image you want to generate and the output style. The options are endless.
 
-![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/citadel.png)
+**image_inicial/initial_image**
+
+*jelly4.png*
+
+![Initial image](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/jelly4.png)
+
+**Result:**
+
+![Cronojelly1](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/cronojelly1.png)
+
+*CRONOJELLY post-production*
 
 
 Configura el tamaño de la imagen en los campos "width" y "height"
