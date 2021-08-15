@@ -31,16 +31,40 @@ Let's make a monster, a **CRONOJELLY**. *When the monster hits a character with 
 
 **Result:**
 
+*original output*
+
+![Cronojelly1](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/cronoj.png)
+
+*post-production* 
+
 ![Cronojelly1](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/cronojelly1.png)
 
 *CRONOJELLY post-production*
 
+I hope this little guide will help you to experiment and generate images that will inspire you.
 
-Configura el tamaño de la imagen en los campos "width" y "height"
+**Some random images I generated before with diferent styles:**
 
-Las medidas máximas de salida de la imagen generada son las siguientes:
-    - 
+![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/arrival.png)
 
-**Useful articles:**
- - https://learn.adafruit.com/generating-ai-art-with-vqgan-clip
- - 
+![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/black_market.png)
+
+![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/astrozombi.png)
+
+![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/fortress.png)
+
+![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/zombie-teamsters.png)
+
+![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/arch.png)
+
+![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/jaws.png)
+
+![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/thing.png)
+
+![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/bear-cyborg.png)
+
+![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/vamp.png)
+
+![Foo](https://raw.githubusercontent.com/delacannon/generate-rpg-images-vqgan/main/images/tatooine-corben.png)
+
+
