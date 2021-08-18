@@ -1,4 +1,4 @@
-# Generate an AI monster image 
+# VQGAN+CLIP for TTRPG
 
 Hey! Here is a brief guide on how AI generated the images of above using VQGAN+CLIP. It's very straightforward.
 
