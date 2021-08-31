@@ -9,14 +9,14 @@ Far from being perfect, the generated images can help you to create atmospheres,
 **Tools:**
  - Must read https://learn.adafruit.com/generating-ai-art-with-vqgan-clip
  - Gmail acount needed
- - [Colab Research VQGAN+CLIP (z+quantize method)](https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT) (generator)
+ - [Colab Research VQGAN+CLIP (z+quantize method)](https://colab.research.google.com/drive/11ZfJZt7ugCwE8pzWz2OVU4-tObBqgJkD) (generator)
  - [PhotoMosh](https://photomosh.com/) (post-production)
 
 **My workflow for Mothership images:**
 
 Let's make a monster, a **CRONOJELLY**. *When the monster hits a character with the tentacles, Body Save or target ages 2d10 years and suffers Stress equal to the result / 2* 
 
-- Open Colab Research VQGAN+CLIP [link](https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT) - the first time go to *File/Save a copy in Drive*.
+- Open Colab Research VQGAN+CLIP [link](https://colab.research.google.com/drive/11ZfJZt7ugCwE8pzWz2OVU4-tObBqgJkD) - the first time go to *File/Save a copy in Drive*.
 - Run each cell in order from top to bottom. In cell *Selección de modelos a descargar / Selection of models to download* select **wikiart_16384**:
   - Using this model I find that it generates images with better results.
 - *Parámetros/Parameters* example: 
